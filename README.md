@@ -1,12 +1,13 @@
 # Private-Index-Page
 ## 键盘式的个人引导页
+点击查看：[Demo][1]
   
 ### 目录结构
 * Privat-Index-Page
   * css
     * normolize.css
     * style.css
-  * images
+  * image
     * ...
   * js
     * main.js
@@ -29,3 +30,5 @@
 
 ### Tips
 1.方便国内用户，默认百度搜索，如需改动，改变html中\<li>的active属性即可
+
+[1]: https://ermaotie.github.io/Private-Index-Page/
