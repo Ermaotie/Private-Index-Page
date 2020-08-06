@@ -8,9 +8,7 @@ ul{list-style: none;}
 
 /* 注意：这里图片路径是相对路径 */
 body{
-    /* 为了加快访问github.io的访问速度，改用从图床加载，个人使用请去掉下一行注释，并将后面一行注释 */
-    /* background: #ccc url(../image/bg.jpg) no-repeat center center; */
-    background: #ccc url(https://1b.mk/bg.jpg) no-repeat center center;
+    background: #ccc url(../image/bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
